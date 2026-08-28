@@ -16,6 +16,18 @@ Two properties show up in most of what I ship: it makes decisions without a huma
 
 ---
 
+## Background
+
+Principal engineer in applied AI and ML systems — two decades in statistics and analytics, production ML and NLP since 2017. That work spans agentic infrastructure (Model Context Protocol servers, multi-provider LLM abstractions with OAuth 2.1), production NLP across the full lineage from lexicon scoring through LSTM/GRU to transformer fine-tuning, and applied causal inference rigorous enough to survive a CFO — synthetic control, difference-in-differences, ANOVA with post-hoc correction.
+
+Independently, I've fine-tuned GPT-J and LLaMA-class models using both LoRA and full-parameter approaches on an 8×A100 DeepSpeed cluster — including debugging the training divergence and tokenization failures that don't appear in the tutorials.
+
+- **Recognition** — Brandon Hall Gold Award, Best Advance in AI for Learning
+- **Teaching** — Guest lecturer on applied AI/ML, George Mason University CLO Certification Program (2020–2024, four cohorts)
+- **Education** — M.S. Data Science, Southern Methodist University · B.B.A. Management Information Systems, Dallas Baptist University
+
+---
+
 ## Featured work
 
 | Project | What it does | Why it's not trivial |
@@ -70,5 +82,5 @@ It works — the loop has proposed, reviewed, revised, and merged its own change
 
 ## Elsewhere
 
-- LinkedIn — [linkedin.com/in/scottseverance](https://linkedin.com/in/scottseverance)
+- LinkedIn — [linkedin.com/in/scott-severance](https://www.linkedin.com/in/scott-severance)
 - Website — [scottseverance.net](https://scottseverance.net)
