@@ -70,5 +70,5 @@ It works — the loop has proposed, reviewed, revised, and merged its own change
 
 ## Elsewhere
 
-- LinkedIn — <!-- add your LinkedIn URL -->
-- Website — <!-- add your site URL -->
+- LinkedIn — [linkedin.com/in/scottseverance](https://linkedin.com/in/scottseverance)
+- Website — [scottseverance.net](https://scottseverance.net)
