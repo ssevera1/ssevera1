@@ -59,7 +59,6 @@ It works. The loop has proposed, reviewed, revised, and merged its own changes a
 **Agents and autonomy**
 - **[DeepResearchAgent](https://github.com/ssevera1/DeepResearchAgent):** cyclic research agent in LangGraph (Planner → Worker → Reviewer)
 - **[Autonomous-SOC-Security-Agent](https://github.com/ssevera1/Autonomous-SOC-Security-Agent):** triages SIEM alerts and checks IP reputation, with human approval enforced before anything gets blocked
-- **[PDA](https://github.com/ssevera1/PDA):** answers real phone calls via Twilio, converses using Claude/Grok/Gemini, and sends call summaries to Telegram
 
 **Data, retrieval and ML**
 - **[GraphRAG-Compliance-Navigator](https://github.com/ssevera1/GraphRAG-Compliance-Navigator):** extracts compliance entities from legal text into a Neo4j knowledge graph, retrieved via hybrid vector and graph search
@@ -76,7 +75,7 @@ It works. The loop has proposed, reviewed, revised, and merged its own changes a
 **Languages:** Python, TypeScript
 **AI/ML:** LangGraph, Ollama, ONNX Runtime, TensorFlow.js, scikit-learn, Evidently AI, Feast
 **Data:** Neo4j, vector and graph hybrid retrieval, Streamlit
-**Infra:** GitHub Actions, Docker, Twilio
+**Infra:** GitHub Actions, Docker
 
 ---
 
